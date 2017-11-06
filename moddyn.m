@@ -1,4 +1,5 @@
 %% QUESTION 1 FIND ROOT OF 3 VARIABLES EXPRESSION x, y AND z
+% hiiii
 close all, clear all, clc;
 syms e f p q u x y z
 e= 10^-2; p= 0.5; q=0.05; % condition 1
